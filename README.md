@@ -1,6 +1,6 @@
 # System Administrator Work Portfolio
 
-Hi, I'm Ajoke 👋
+Hi, I'm Ajoke
 
 Welcome to my System Administrator Work Portfolio.
 
